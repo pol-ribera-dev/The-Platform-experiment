@@ -2,13 +2,7 @@
 Smart Contract deployed on Arbitrum:
 https://arbiscan.io/address/0x3ab34f35ab3645f909398183b3add66cb18b9bb5
 
-On-chain social experiment inspired by the Spanish film “The Platform” (El Hoyo).
-In the film, participants are distributed across different floors, completely isolated from 
-each other except for a hole in the center through which a platform carrying food descends. 
-The platform only moves from top to bottom. Although there is enough food for everyone at the 
-beginning, those on the upper floors overconsume or hoard it, leaving little or nothing for 
-those below. Being assigned to a lower level can therefore mean death. Each month, after the platform 
-has passed through all floors, participants are randomly reassigned.
+On-chain social experiment inspired by the Spanish film “The Platform” (El Hoyo). In the film, participants are distributed across different floors, completely isolated from each other except for a hole in the center through which a platform carrying food descends. The platform only moves from top to bottom. Although there is enough food for everyone at the beginning, those on the upper floors overconsume or hoard it, leaving little or nothing for those below. Being assigned to a lower level can therefore mean death. Each month, after the platform has passed through all floors, participants are randomly reassigned.
 
 This contract aims to replicate that same logic. There are 10 floors where players are located, and a 
 platform that descends carrying a cryptocurrency representing food. When the platform reaches a player’s 
