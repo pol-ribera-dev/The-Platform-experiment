@@ -1,4 +1,7 @@
 # The-Platform-experiment
+Smart Contract deployed on Arbitrum:
+https://arbiscan.io/address/0x3ab34f35ab3645f909398183b3add66cb18b9bb5
+
 On-chain social experiment inspired by the Spanish film “The Platform” (El Hoyo).
 In the film, participants are distributed across different floors, completely isolated from 
 each other except for a hole in the center through which a platform carrying food descends. 
